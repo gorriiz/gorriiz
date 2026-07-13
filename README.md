@@ -2,7 +2,7 @@
 
 **Data Engineer / Data Analyst** · Microsoft Fabric · Power BI · Python
 
-Construyo soluciones de datos de extremo a extremo: desde la ingesta y el modelado hasta el análisis y la visualización. Vengo de un perfil cuantitativo (máster en análisis de datos deportivos, UCAM) y hoy trabajo en ingeniería de datos, con foco en pipelines fiables y modelos de datos que aguanten en producción.
+Construyo soluciones de datos de extremo a extremo: desde la ingesta y el modelado hasta el análisis y la visualización. Vengo de un perfil cuantitativo (máster en análisis de datos deportivos, UCAM) y he desarrollado pipelines de datos en producción sobre Microsoft Fabric (arquitectura medallion, PySpark), con foco en la fiabilidad y en modelos de datos mantenibles.
 
 Actualmente busco un rol en el mundo de los datos donde combinar ingeniería y analítica. Abierto a posiciones de data engineer, data analyst o analytics engineer.
 
@@ -38,5 +38,5 @@ Actualmente busco un rol en el mundo de los datos donde combinar ingeniería y a
 
 ## Contacto
 
-- LinkedIn: [Roger Górriz]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/roger-gorriz-00667b279/)
+- LinkedIn: [Roger Górriz](https://www.linkedin.com/in/roger-gorriz-00667b279)
 - Email: roger.gorriz@gmail.com
