@@ -1,4 +1,4 @@
-# [Roger Gorriz]
+# Roger Gorriz
 
 **Data Engineer / Data Analyst** · Microsoft Fabric · Power BI · Python
 
@@ -24,7 +24,7 @@ Actualmente busco un rol en el mundo de los datos donde combinar ingeniería y a
 
 **[StatsBomb — Análisis de fútbol femenino](URL)** — Dashboard de análisis de partido en Power BI a partir de datos abiertos de StatsBomb (statsbombpy como fuente). Visuales de campo generados con Python (mplsoccer) y Deneb: pass network, mapa de tiros y xG acumulado, con navegación por bookmarks. Combina ingeniería de datos, analítica de fútbol y visualización avanzada.
 
-**[TFM — Relación entre el saque de portería y el nivel del equipo](URL)** — Trabajo de fin de máster con un pipeline de datos completo en Python: web scraping de eventos de partido (Opta vía WhoScored), estadísticas de liga (fbref) y valores de plantilla (Transfermarkt), volcados a una base de datos SQL en Supabase y depurados con pandas. Clasificación de los tipos de saque de portería de las cinco grandes ligas mediante clustering K-means (scikit-learn) y visualización sobre campo con mplsoccer. El análisis de correlación refuta la hipótesis de partida: el estilo de saque no se relaciona con el nivel del equipo, sino con la posesión y los puntos por partido.
+**[TFM — Relación entre el saque de portería y el nivel del equipo](https://github.com/gorriiz/tfm-saque-porteria)** — Trabajo de fin de máster con un pipeline de datos completo en Python: web scraping de eventos de partido (Opta vía WhoScored), estadísticas de liga (fbref) y valores de plantilla (Transfermarkt), volcados a una base de datos SQL en Supabase y depurados con pandas. Clasificación de los tipos de saque de portería de las cinco grandes ligas mediante clustering K-means (scikit-learn) y visualización sobre campo con mplsoccer. El análisis de correlación refuta la hipótesis de partida: el estilo de saque no se relaciona con el nivel del equipo, sino con la posesión y los puntos por partido.
 
 **[Sala de control físico](URL)** — Dashboard de monitorización de carga de trabajo a partir de datos de rendimiento (5 CSV). Esquema en constelación de hechos y cálculo de ACWR (ratio de carga aguda:crónica) en DAX para seguimiento del estado de forma.
 
@@ -33,8 +33,8 @@ Actualmente busco un rol en el mundo de los datos donde combinar ingeniería y a
 
 ## Stack
 
-**Datos e ingeniería**: Microsoft Fabric · PySpark · SQL · Python · Data Factory
-**BI y visualización**: Power BI · DAX · Power Query
+**Datos e ingeniería**: Microsoft Fabric · PySpark · SQL · Python · Data Factory<br>
+**BI y visualización**: Power BI · DAX · Power Query<br>
 **Herramientas**: Git · GitHub · Obsidian
 
 ## Contacto
