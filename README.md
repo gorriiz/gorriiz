@@ -22,7 +22,7 @@ Actualmente busco un rol en el mundo de los datos donde combinar ingeniería y a
 
 ## Proyectos destacados
 
-**[Liga F 2023/24 — Análisis con datos de StatsBomb](URL)** — Dashboard de Power BI sobre la primera división femenina española, alimentado por un pipeline ETL en Python (statsbombpy) que transforma los eventos en un modelo en estrella. Cuatro páginas: resumen de liga, jugadoras, mapa de calor de presiones y mapa de tiros dimensionado por xG. Cubre el flujo completo, de la extracción a la visualización.
+**[Liga F 2023/24 — Análisis con datos de StatsBomb](https://github.com/gorriiz/statsbomb-ligaf)** — Dashboard de Power BI sobre la primera división femenina española, alimentado por un pipeline ETL en Python (statsbombpy) que transforma los eventos en un modelo en estrella. Cuatro páginas: resumen de liga, jugadoras, mapa de calor de presiones y mapa de tiros dimensionado por xG. Cubre el flujo completo, de la extracción a la visualización.
 
 **[TFM — Relación entre el saque de portería y el nivel del equipo](https://github.com/gorriiz/tfm-saque-porteria)** — Trabajo de fin de máster con un pipeline de datos completo en Python: web scraping de eventos de partido (Opta vía WhoScored), estadísticas de liga (fbref) y valores de plantilla (Transfermarkt), volcados a una base de datos SQL en Supabase y depurados con pandas. Clasificación de los tipos de saque de portería de las cinco grandes ligas mediante clustering K-means (scikit-learn) y visualización sobre campo con mplsoccer. El análisis de correlación refuta la hipótesis de partida: el estilo de saque no se relaciona con el nivel del equipo, sino con la posesión y los puntos por partido.
 
