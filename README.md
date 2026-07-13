@@ -25,9 +25,9 @@ Actualmente busco un rol en el mundo de los datos donde combinar ingeniería y a
 
 **[TFM — Relación entre el saque de portería y el nivel del equipo](https://github.com/gorriiz/tfm-saque-porteria)** — Trabajo de fin de máster con un pipeline de datos completo en Python: web scraping de eventos de partido (Opta vía WhoScored), estadísticas de liga (fbref) y valores de plantilla (Transfermarkt), volcados a una base de datos SQL en Supabase y depurados con pandas. Clasificación de los tipos de saque de portería de las cinco grandes ligas mediante clustering K-means (scikit-learn) y visualización sobre campo con mplsoccer. El análisis de correlación refuta la hipótesis de partida: el estilo de saque no se relaciona con el nivel del equipo, sino con la posesión y los puntos por partido.
 
-[Sala de control físico](https://github.com/gorriiz/sala-control-fisico) — Dashboard de monitorización de carga y recuperación de una plantilla, a partir de cinco fuentes de datos de rendimiento. Esquema en constelación de hechos, cálculo del ACWR (ratio de carga aguda:crónica) con inteligencia de tiempo en DAX y ficha de jugador por drill-through.
+**[Sala de control físico](https://github.com/gorriiz/sala-control-fisico)** — Dashboard de monitorización de carga y recuperación de una plantilla, a partir de cinco fuentes de datos de rendimiento. Esquema en constelación de hechos, cálculo del ACWR (ratio de carga aguda:crónica) con inteligencia de tiempo en DAX y ficha de jugador por drill-through.
 
-[Anatomía de una nota](https://github.com/gorriiz/anatomia-de-una-nota) — Análisis de correlación entre las valoraciones de los jugadores y sus métricas físicas y de GPS, sobre un dataset sintético del Mundial 2026. Medida de correlación de Pearson en DAX y uso de los visuales de IA de Power BI (Key Influencers, árbol de descomposición).
+**[Anatomía de una nota](https://github.com/gorriiz/anatomia-de-una-nota)** — Análisis de correlación entre las valoraciones de los jugadores y sus métricas físicas y de GPS, sobre un dataset sintético del Mundial 2026. Medida de correlación de Pearson en DAX y uso de los visuales de IA de Power BI (Key Influencers, árbol de descomposición).
 
 
 ## Stack
