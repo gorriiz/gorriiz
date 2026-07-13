@@ -15,7 +15,6 @@ Actualmente busco un rol en el mundo de los datos donde combinar ingeniería y a
 ## Certificaciones
 
 - **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
-- **DP-600 (Fabric Analytics Engineer)** — en preparación
 - **Diploma Profesional en Scouting y Análisis Táctico en Fútbol** - Barça Innovation Hub
 - **Máster en Big Data Deportivo** - Sports Data Campus · UCAM
 - **Certificado en Analista Táctico de Fútbol** - Barça Innovation Hub
@@ -26,16 +25,16 @@ Actualmente busco un rol en el mundo de los datos donde combinar ingeniería y a
 
 **[TFM — Relación entre el saque de portería y el nivel del equipo](https://github.com/gorriiz/tfm-saque-porteria)** — Trabajo de fin de máster con un pipeline de datos completo en Python: web scraping de eventos de partido (Opta vía WhoScored), estadísticas de liga (fbref) y valores de plantilla (Transfermarkt), volcados a una base de datos SQL en Supabase y depurados con pandas. Clasificación de los tipos de saque de portería de las cinco grandes ligas mediante clustering K-means (scikit-learn) y visualización sobre campo con mplsoccer. El análisis de correlación refuta la hipótesis de partida: el estilo de saque no se relaciona con el nivel del equipo, sino con la posesión y los puntos por partido.
 
-**[Sala de control físico](URL)** — Dashboard de monitorización de carga de trabajo a partir de datos de rendimiento (5 CSV). Esquema en constelación de hechos y cálculo de ACWR (ratio de carga aguda:crónica) en DAX para seguimiento del estado de forma.
+**[Sala de control físico](https://github.com/gorriiz/sala-control-fisico)** — Dashboard de monitorización de carga de trabajo a partir de datos de rendimiento (5 CSV). Esquema en constelación de hechos y cálculo de ACWR (ratio de carga aguda:crónica) en DAX para seguimiento del estado de forma.
 
-**[Anatomía de una nota](URL)** — Análisis de correlación entre las valoraciones de jugadores y sus métricas físicas y de GPS, sobre un dataset sintético del Mundial 2026. Modelado, medidas en DAX y narrativa visual.
+**[Anatomía de una nota](https://github.com/gorriiz/anatomia-de-una-nota)** — Análisis de correlación entre las valoraciones de jugadores y sus métricas físicas y de GPS, sobre un dataset sintético del Mundial 2026. Modelado, medidas en DAX y narrativa visual.
 
 
 ## Stack
 
 **Datos e ingeniería**: Microsoft Fabric · PySpark · SQL · Python · Data Factory<br>
 **BI y visualización**: Power BI · DAX · Power Query<br>
-**Herramientas**: Git · GitHub · Obsidian
+**Herramientas**: Git · GitHub
 
 ## Contacto
 
