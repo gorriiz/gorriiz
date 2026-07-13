@@ -38,5 +38,5 @@ Actualmente busco un rol en el mundo de los datos donde combinar ingeniería y a
 
 ## Contacto
 
-- LinkedIn: [Roger Górriz]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/roger-gorriz-00667b279/))
+- LinkedIn: [Roger Górriz]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/roger-gorriz-00667b279/)
 - Email: roger.gorriz@gmail.com
