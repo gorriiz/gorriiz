@@ -16,6 +16,8 @@ Actualmente busco un rol en el mundo de los datos donde combinar ingeniería y a
 ## Certificaciones
 
 - **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+- **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** — Diciembre 2026
+- **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** — Verano 2027
 - **Diploma Profesional en Scouting y Análisis Táctico en Fútbol** - Barça Innovation Hub
 - **Máster en Big Data Deportivo** - Sports Data Campus · UCAM
 - **Certificado en Analista Táctico de Fútbol** - Barça Innovation Hub
